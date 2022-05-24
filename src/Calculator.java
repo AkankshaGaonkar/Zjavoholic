@@ -22,5 +22,5 @@ public class Calculator {
     }
 
 }
-
+//calci
 //If two or more method have same name and same parameter list but differs in return type can not be overloaded.
